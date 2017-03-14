@@ -11,3 +11,15 @@
  defaults write com.apple.finder AppleShowAllFiles -bool true
  ```
  以及重启Finder，所以自己写了个App来完成这个
+
+# install 安装
+## 方式一
+1.下载dmg后，拖动app到应用程序.
+2.在应用程序文件夹中，按住Command，将app拖动到菜单栏
+## 方式二
+1.clone项目后，编译项目
+2.按住Command，将app拖动到菜单栏
+
+# Use 使用
+点击app，如果此时已经可以显示隐藏文件，那么将会关闭显示隐藏文件
+反之，如果隐藏了隐藏文件，那么将会显示隐藏文件
