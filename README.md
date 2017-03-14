@@ -12,7 +12,7 @@
 ## 方式一
 - 下载dmg后，拖动app到应用程序.
 - 在应用程序文件夹中，按住Command，将app拖动到菜单栏
-![photos](https://o90qqsid7.qnssl.com/1234567.png)
+![photos](https://o90qqsid7.qnssl.com/1234567.png?imageView2/2/w/600/h/300/interlace/0/q/41)
 
 ## 方式二
 - clone项目后，编译项目
