@@ -1,7 +1,7 @@
  # iHide
   Onekey show/hidden files for mac,[Download](https://github.com/isnine/iHide/raw/master/iHide.dmg)
 
-  # 中文介绍(Chinese Introduction)
+  # ntroduction 介绍
  因为Mac隐藏显示文件太麻烦，总是需要输入
  ```
  defaults write com.apple.finder AppleShowAllFiles -bool true
